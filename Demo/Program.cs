@@ -36,6 +36,34 @@
             #endregion
 
 
+            #region HEAP
+
+            ////piont P01;
+            ////declare refernce from type point
+            ////P01 can refer to object from type point
+            ////8 Byte Will Be Allocated At Stack For P01 
+            ////0 Byte Will Be Allocted At HEAP for P01
+
+            //Point P01 = new Point();
+            //Console.WriteLine(P01);
+
+            //Console.WriteLine(P01.X);
+            //Console.WriteLine(P01.Y);
+
+            //Point P02 = new Point();
+            //P02.X = 12;
+            //Console.WriteLine(P02.X);
+            //Console.WriteLine(P01.X);
+            //P01 = P02;
+
+            //Console.WriteLine(P02.X);
+            //Console.WriteLine(P01.X);
+            //Console.WriteLine(P01);
+            //Console.WriteLine(P02); 
+            #endregion
+
+
+
         }
     }
 }
