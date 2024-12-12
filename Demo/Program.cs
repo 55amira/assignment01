@@ -62,6 +62,31 @@
             //Console.WriteLine(P02); 
             #endregion
 
+            #region Object
+            //object O01;
+            //O01 = new object();
+            //O01 = 1;
+            //O01 = 'A';
+            //O01 = 2.22;
+            //O01 = new Point();
+            //Console.WriteLine(O01);
+
+
+            //Point P01 = new Point();
+            ////P01.ToString();
+
+            //Console.WriteLine(P01.ToString());
+
+            //Console.WriteLine(P01.GetType());
+
+            //Console.WriteLine(P01.GetHashCode());
+
+            ////P01.GetType();
+            ////P01.GetHashCode();  
+            ////P01.Equals();
+
+            #endregion
+
 
 
         }
