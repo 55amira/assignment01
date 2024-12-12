@@ -126,6 +126,17 @@
 
             #endregion
 
+            #region Discarde
+
+            //double X = 1.5;
+            //float Y = 1.5f;
+            //decimal Z = 1.5m;
+
+            //int X=1_000_000_000;
+            //Console.WriteLine(X);
+
+            #endregion
+
 
         }
     }
