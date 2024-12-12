@@ -87,6 +87,21 @@
 
             #endregion
 
+            #region Casting implicit||explicit
+            //int X = 10;
+            //double Y = X;// implicit casting 
+            //Console.WriteLine(Y);
+
+
+            //double A = 2.5;
+            //int B = (int)A;
+            //Console.WriteLine(B);
+
+            //long S = 11111111111111;
+            //int C = (int)S;
+            //Console.WriteLine(C); 
+            #endregion
+
 
 
         }
