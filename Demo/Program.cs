@@ -24,6 +24,18 @@
             //Number4 = 30;
             //Console.WriteLine(Number4); 
             #endregion
+
+
+            #region ValueType
+            //int Number;
+            //Number = 10;
+
+            //Int32 Number2;
+
+            //Console.WriteLine(Number);
+            #endregion
+
+
         }
     }
 }
