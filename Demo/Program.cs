@@ -137,6 +137,53 @@
 
             #endregion
 
+            #region Operation
+
+            //int x = 10;
+            //Console.WriteLine(x);
+            //Console.WriteLine(++x);
+            //Console.WriteLine(x++);
+            //Console.WriteLine(x--);
+            //Console.WriteLine(--x);
+
+            //int Sum, Mul, Sub, Mod;
+            //int Number01=2,Number02=6;
+
+            //Sum=Number01+Number02;
+            //Mul=Number01*Number02;
+            //Sub=Number01-Number02;
+            //Mod=Number01%Number02;
+
+            //Console.WriteLine(Sum);
+            //Console.WriteLine(Mul);
+            //Console.WriteLine(Sub);
+            //Console.WriteLine(Mod);
+
+            //int X;
+            //X = 4;
+            //X += 2;
+            //X -= 2;
+            //X /= 2;
+            //X %= 2;
+
+            //int X = 5, Y = 6;
+            //Console.WriteLine(X == Y);
+            //Console.WriteLine(X != Y);
+            //Console.WriteLine(X >= Y);
+            //Console.WriteLine(X <= Y);
+            //Console.WriteLine(X <  Y);
+            //Console.WriteLine(X >  Y);
+
+            //Console.WriteLine(!false);
+            //Console.WriteLine(false && true);
+            //Console.WriteLine(false || true);
+            //Console.WriteLine(false & true);
+            //Console.WriteLine(false | true);
+
+            //string Flage = 4 > 2 ? "correct" : "not correct";
+            //Console.WriteLine(Flage);
+
+            #endregion
 
         }
     }
