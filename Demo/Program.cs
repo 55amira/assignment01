@@ -102,6 +102,29 @@
             //Console.WriteLine(C); 
             #endregion
 
+            #region Convert,parse,TryParse
+            //Console.WriteLine("Enter Your Age");
+            //int Age = int.Parse(Console.ReadLine());
+            //Console.WriteLine(Age);
+
+            //Console.WriteLine("Enter Your Age");
+            //int Age = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine(Age);
+
+            //Console.WriteLine("Enter Your GPA:");
+            //double GPA = double.Parse(Console.ReadLine());
+            //Console.WriteLine(GPA);
+
+            //TryParse
+
+            //Console.WriteLine("Enter Your Age");
+            //int Age;
+            //bool Flage = int.TryParse(Console.ReadLine(), out Age);
+            //Console.WriteLine(Age);
+            //Console.WriteLine(Flage);
+
+
+            #endregion
 
 
         }
